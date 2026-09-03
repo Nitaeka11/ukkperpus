@@ -12,7 +12,8 @@
 
 <p align="center">
   <b>📖 Sistem Informasi Perpustakaan Digital</b><br>
-  <i>SMP Negeri 2 Sanden</i>
+  <i>SMP Negeri 2 Sanden </i>
+   <i>Oleh NITA</i>
 </p>
 
 ---
