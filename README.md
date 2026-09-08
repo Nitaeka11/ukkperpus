@@ -19,7 +19,7 @@
 ---
 
 WIREFRAME: https://raw.githubusercontent.com/Nitaeka11/ukkperpus/refs/heads/main/WIREFRAME.png
-           https://chatgpt.com/c/6a86e42d-6134-83ec-8292-b561faec84a8
+           
 ## 📌 Tentang Project
 
 **Sistem Informasi Perpustakaan Digital SMP N 2 Sanden** merupakan aplikasi berbasis web yang dibuat untuk membantu proses pengelolaan perpustakaan sekolah secara lebih mudah, cepat, terstruktur, dan terdigitalisasi.
