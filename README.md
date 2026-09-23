@@ -19,6 +19,7 @@
 ---
 
 WIREFRAME: https://raw.githubusercontent.com/Nitaeka11/ukkperpus/refs/heads/main/WIREFRAME.png
+
 tampilan awal landing page: https://github.com/Nitaeka11/ukkperpus/blob/e1d412e6831f88fa143149c390832b7e96f74979/ukkkk.jpg
            
 ## 📌 Tentang Project
